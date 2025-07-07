@@ -1,2 +1,2 @@
 import jj as j
-j.fib(5)
+j.fibonacci_iterative(10)
